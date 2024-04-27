@@ -4,7 +4,8 @@
   "description": "A website todo list",
   "main": "index.html",
   "scripts": {
-    "test": "echo 'WE REALLY NEED TESTS'"
+    "test": "echo 'WE REALLY NEED TESTS'",
+    "start": "browser-sync start --server"
   },
   "repository": {
     "type": "git",
